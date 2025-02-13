@@ -1,2 +1,5 @@
 # Ignore Mac system files
 .DS_Store
+
+# Ignore Kaggle API key file
+~/.kaggle/kaggle.json
