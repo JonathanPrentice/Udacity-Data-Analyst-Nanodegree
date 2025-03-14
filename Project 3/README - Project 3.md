@@ -1,3 +1,0 @@
-Booting up...
-
-
