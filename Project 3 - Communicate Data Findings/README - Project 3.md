@@ -14,9 +14,9 @@ By the end of this project, we aim to:
 - Present data insights in a clear and engaging manner.
 
 ## 🗂 Dataset
-- **Dataset Name:** _[Your Dataset Name]_  
-- **Source:** _[Link to dataset if available]_  
-- **Description:** _[Briefly describe the dataset, including key features]_  
+- **Dataset Name:** 
+- **Source:**
+- **Description:** 
 
 ## 🛠️ Technologies Used
 - **Python** 🐍
@@ -25,30 +25,6 @@ By the end of this project, we aim to:
 - **Seaborn** 🎨
 - **Pandas** 📑
 - **NumPy** 🔢
-
-## 🔧 Setup Instructions
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. Navigate into the project directory:
-   ```bash
-   cd your-repo-name
-   ```
-3. Create and activate a virtual environment (optional but recommended):
-   ```bash
-   python -m venv venv
-   source venv/bin/activate  # On Windows use `venv\Scripts\activate`
-   ```
-4. Install required dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-5. Open Jupyter Notebook:
-   ```bash
-   jupyter notebook
-   ```
-6. Run the notebooks and explore the visualizations.
 
 ## 📈 Project Structure
 ```
@@ -74,8 +50,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🤝 Contributing
 Feel free to open issues or submit pull requests if you have suggestions or improvements.
-
-//## 📬 Contact
-//- **Your Name** – [Your Email]
-//- **GitHub Profile:** [Your GitHub Profile URL]
-
