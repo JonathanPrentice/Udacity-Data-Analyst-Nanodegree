@@ -14,9 +14,9 @@ By the end of this project, we aim to:
 - Present data insights in a clear and engaging manner.
 
 ## 🗂 Dataset
-- **Dataset Name:** 
-- **Source:**
-- **Description:** 
+- **Dataset Name:**  Soon..
+- **Source:** Soon..
+- **Description:**  Soon..
 
 ## 🛠️ Technologies Used
 - **Python** 🐍
@@ -32,18 +32,14 @@ By the end of this project, we aim to:
 ├── notebooks/          # Jupyter notebooks for analysis
 │   ├── exploratory_visuals.ipynb   # Exploratory analysis
 │   ├── explanatory_visuals.ipynb   # Final presentation visuals
-├── images/             # Saved visualizations (optional)
+├── images/             # Saved visualizations (Later..)
 ├── README.md           # Project documentation
 ├── requirements.txt    # Dependencies
 ```
 
-## 📌 Key Findings
-- _[List key insights or trends discovered during analysis]_  
-- _[Summarize important patterns, relationships, or outliers in the data]_  
+## 📌 Key Findings - Soon..
 
-## 📢 Future Improvements
-- _[Mention any improvements or extensions for this project]_  
-- _[Ideas for further exploration or additional datasets to analyze]_  
+## 📢 Future Improvements - Soon..
 
 ## 📜 License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
