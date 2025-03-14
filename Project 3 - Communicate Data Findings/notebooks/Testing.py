@@ -1,5 +1,4 @@
 # Testing.py
-
 def greet(name):
     return f"Hello, {name}!"
 
