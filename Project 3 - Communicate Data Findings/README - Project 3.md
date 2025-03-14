@@ -28,11 +28,11 @@ By the end of this project, we aim to:
 
 ## 📈 Project Structure
 ```
-├── data/               # Dataset files (if applicable)
+├── data/               # Dataset files (Soon..)
 ├── notebooks/          # Jupyter notebooks for analysis
 │   ├── exploratory_visuals.ipynb   # Exploratory analysis
 │   ├── explanatory_visuals.ipynb   # Final presentation visuals
-├── images/             # Saved visualizations (Later..)
+├── images/             # Saved visualizations (Soon..)
 ├── README.md           # Project documentation
 ├── requirements.txt    # Dependencies
 ```
