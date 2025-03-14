@@ -14,9 +14,9 @@ By the end of this project, we aim to:
 - Present data insights in a clear and engaging manner.
 
 ## 🗂 Dataset
-- **Dataset Name:**  Soon..
-- **Source:** Soon..
-- **Description:**  Soon..
+- **Dataset Name:** Ford GoBike System Data
+- **Source:** [Ford GoBike System Data](https://www.fordgobike.com/system-data)
+- **Description:** This dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area. It contains details such as trip duration, start and end times, start and end station locations, bike ID, user type, and user demographics.
 
 ## 🛠️ Technologies Used
 - **Python** 🐍
@@ -28,7 +28,7 @@ By the end of this project, we aim to:
 
 ## 📈 Project Structure
 ```
-├── data/               # Dataset files (Soon..)
+├── data/               # Dataset files
 ├── notebooks/          # Jupyter notebooks for analysis
 │   ├── exploratory_visuals.ipynb   # Exploratory analysis
 │   ├── explanatory_visuals.ipynb   # Final presentation visuals
