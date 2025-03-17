@@ -1,4 +1,4 @@
-# 📊 Data Visualization Project
+# 📊 Data Visualization Project - Ford GoBike System Data
 
 ## 🎯 Project Overview
 This project explores the importance of **data visualization** in the data analysis process. It consists of two parts:
