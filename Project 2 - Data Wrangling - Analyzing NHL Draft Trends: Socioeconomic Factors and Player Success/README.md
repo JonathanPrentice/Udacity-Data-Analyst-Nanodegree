@@ -1,4 +1,4 @@
-# 🏒 # Analyzing NHL Draft Trends: Socioeconomic Factors and Player Success
+# 🏒Analyzing NHL Draft Trends: Socioeconomic Factors and Player Success
 This project takes a deep dive into NHL Draft data, exploring how a player's pre-draft league and their country's socioeconomic status influence their chances of making it to the big leagues. Using historical data and advanced analytics, we aim to reveal patterns that could help predict future NHL success.
 
 ---
